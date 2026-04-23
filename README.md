@@ -23,7 +23,7 @@
   |   SHELL SCRIPT | ⭐⭐⭐⭐ |
 
 ---
- ## 💻 Contacto
+ ## 📬 Contacto
  - 🐙 __GitHub:__ _[kaiitzz](https://github.com/kaiitzz)_
 
  > *"Cruzaremos ese puente cuando lleguemos a el"* 🌉

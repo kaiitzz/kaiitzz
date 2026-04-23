@@ -1,8 +1,7 @@
 
 ## kaiitzz👋
 
-Añado README de perfil
-Inspiración:
-- https://github.com/adamalston/adamalston
-- https://github.com/harish-sethuraman/harish-sethuraman
-- https://github.com/alwinw/alwinw
+**README de perfil Inspiración:**
+- _https://github.com/adamalston/adamalston_
+- _https://github.com/harish-sethuraman/harish-sethuraman_
+- _https://github.com/alwinw/alwinw_

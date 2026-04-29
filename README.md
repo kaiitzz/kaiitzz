@@ -1,6 +1,6 @@
 # Arkaitz Mosibe
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=kaiitzz+👋;README+PESONAL;CONOCEME+😄)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A84FF&width=435&lines=kaiitzz+👋;README+PESONAL;CONOCEME+😄)
 
   ## 👤 Sobre mi 
   - 🎓 Estudiante de **DAM** en primer año - *intentando no morir*

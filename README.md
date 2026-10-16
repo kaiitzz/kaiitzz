@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A84FF&width=435&lines=kaiitzz;kaiitzz;kaiitzz)
 
 <p align="center">
-  <img src=[["https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBzNzRya3RtNmdidjBjdWtjNXB6YXNpN3ExMGFpbXVnZGYwNWUxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEqhXX8g7J2D0QuhxI/giphy.gif"](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFyeHR0NXJmdnlsZTFrZDZ2NzM0dXpiMHZ4dmwzN2h4YmR2ZzliZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iNPNqI81MvDQ4D4n6D/200.webp) width="500">](https://giphy.com/gifs/jjk-yuta-manga-E6H8x5Yhme61T9H40l)
+  <img src=![["https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBzNzRya3RtNmdidjBjdWtjNXB6YXNpN3ExMGFpbXVnZGYwNWUxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEqhXX8g7J2D0QuhxI/giphy.gif"](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFyeHR0NXJmdnlsZTFrZDZ2NzM0dXpiMHZ4dmwzN2h4YmR2ZzliZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iNPNqI81MvDQ4D4n6D/200.webp) width="500">](https://giphy.com/gifs/jjk-yuta-manga-E6H8x5Yhme61T9H40l)
 </p>
 
   ## 👤 Sobre mi 

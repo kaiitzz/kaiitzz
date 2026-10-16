@@ -1,4 +1,4 @@
-# ARKAITZ MOSIBE
+# ARKAITZ MOSIBE ![Letras A y M](images/sticker-AM.png)
 
 ![Mi sticker](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW4yNWZydWU3eW5nbnAxNmEycWx5cnN3OG1rdGxhNnUzc2R3ZXg2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.webp)
 

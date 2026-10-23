@@ -12,16 +12,16 @@
 ---
   ## 💻 Tecnologias
   | Tecnologia | Nivel | Estado |
-  |------------|-------|--------|
-  |    ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)    |  ⭐⯪☆☆☆ | Muy Bajo |
-  |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)     | ⭐⭐☆☆☆ | Bajo |
+  |:------------:|:-------:|:--------:|
+  |    ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)    |  ⭐⭐☆☆☆ | Bajo |
+  |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)     | ⭐⭐⭐☆☆ | Normal |
   |   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)     | ⭐⭐☆☆☆| Bajo |
   |   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)       | ⭐⯪☆☆☆ | Muy Bajo |
-  |   ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)      | ⭐⭐⯪☆☆ | Mejorable |
-  |   ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)      | ⭐⭐⭐⯪☆ | Normal |
-  |   ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)     | ⭐⭐⭐⯪☆ | Normal |
-  |   ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) | ⭐⭐⭐⭐☆| BIEN |
-  |   ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white) | ⭐⭐⭐⭐☆ | BIEN |
+  |   ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)      | ⭐⭐⭐⯪☆☆ | Bien |
+  |   ![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)      | ⭐⭐⭐⯪☆ | Bien |
+  |   ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)     | ⭐⭐⭐⯪☆ | Bien |
+  |   ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) | ⭐⭐⭐⭐☆| Muy bien |
+  |   ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white) | ⭐⭐⭐⭐☆ | Muy bien |
 
 ---
  ## 📬 Contacto

@@ -1,7 +1,6 @@
 # ARKAITZ MOSIBE 🅰️Ⓜ️
 
-![Mi sticker][(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW4yNWZydWU3eW5nbnAxNmEycWx5cnN3OG1rdGxhNnUzc2R3ZXg2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.webp)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU1dTh0bjFocHhoM2tlOG9zdzZzM3Rsa3ludWJlNmUzYmFpcDQwNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gFmkpNCar7TSoauRUs/200.webp)
-
+![Mi sticker](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZyYm5peXdyeGlkeW1kMjJoc2t6Z3lyNm45Nmg2NTAya2l2NXFkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/200.webp)
   ## 👤 Sobre mi 
   - 🎓 Estudiante de **1º***DAM* en segundo año - *recursando*
   - 📍 De Madrid, estudiando en Valladolid.

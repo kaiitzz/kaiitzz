@@ -1,7 +1,7 @@
 # ARKAITZ MOSIBE 🅰️Ⓜ️
 
 ![Mi sticker](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZyYm5peXdyeGlkeW1kMjJoc2t6Z3lyNm45Nmg2NTAya2l2NXFkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/200.webp)
-  ## 👤 Sobre mi 
+  ## 👤 Biografia
   - 🎓 Estudiante de **1º***DAM* en segundo año - *recursando*
   - 📍 De Madrid, estudiando en Valladolid.
   - 🏀 Apasionado a los deportes.
@@ -39,3 +39,8 @@
 ---
 ## 🧘🏽Relexion
 > Sin dolor...NO hay GLORIA
+
+<h1 align="center">
+  <strong>DO<s>UBT</s></strong>
+</h1>
+

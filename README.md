@@ -1,6 +1,6 @@
 # ARKAITZ MOSIBE 🅰️Ⓜ️
 
-![Mi sticker](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW4yNWZydWU3eW5nbnAxNmEycWx5cnN3OG1rdGxhNnUzc2R3ZXg2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.webp)
+![Mi sticker][(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW4yNWZydWU3eW5nbnAxNmEycWx5cnN3OG1rdGxhNnUzc2R3ZXg2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.webp)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU1dTh0bjFocHhoM2tlOG9zdzZzM3Rsa3ludWJlNmUzYmFpcDQwNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gFmkpNCar7TSoauRUs/200.webp)
 
   ## 👤 Sobre mi 
   - 🎓 Estudiante de **1º***DAM* en segundo año - *recursando*

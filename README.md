@@ -25,11 +25,17 @@
 ---
  ## 📬 Contacto
  - 🐙 __GitHub:__ _[kaiitzz](https://github.com/kaiitzz)_
-
- > *"Cruzaremos ese puente cuando lleguemos a el"* 🌉
-
 ---
- ## 🎯 Objetivos para lo que resta de curso.
- - ✅ Aprobar todas las asignaturas posibles.
- - 💪 Mantenerme constante y no rendirme.
- - 🚀 Aprender a programar.
+ ## 🎯 Objetivos 
+ **Pasados**
+- [ ] ✅ Aprobar todas las asignaturas posibles.
+- [X] 💪 Mantenerme constante y no rendirme.
+- [ ] 🚀 Aprender a programar.
+
+**Presentes**
+- [ ] 🔝 Promocionar a **2º***DAM*.
+- [ ] 🤺 No rendirse
+- [ ] 🚀 Aprobar todo.
+---
+## 🧘🏽Relexion
+> Sin dolor...NO hay GLORIA

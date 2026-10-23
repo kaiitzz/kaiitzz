@@ -3,11 +3,11 @@
 ![Mi sticker](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW4yNWZydWU3eW5nbnAxNmEycWx5cnN3OG1rdGxhNnUzc2R3ZXg2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.webp)
 
   ## 👤 Sobre mi 
-  - 🎓 Estudiante de **DAM** en primer año - *intentando no morir*
+  - 🎓 Estudiante de **1º***DAM* en segundo año - *recursando*
   - 📍 De Madrid, estudiando en Valladolid.
-  - 🏀 Apasionado del basket y los videojuegos.
-  - 🧩 Fan de los juegos de pensar, especialmente los sudoku.
-  - 🌱 Aprendiendo a programar desde cero.
+  - 🏀 Apasionado a los deportes.
+  - 🧩 Aficionado a los juegos mentales.
+  - 🌱 Aprendiendo a programar desde ~cero~ donde lo deje.
 
 ---
   ## 💻 Tecnologias
